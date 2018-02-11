@@ -1,0 +1,75 @@
+.bg-light {
+    background-color: white !important;
+    border-bottom: 3px solid;
+    border-bottom-color: lightgray;
+}
+
+.navbar-light .navbar-nav{
+   margin-right: 110px;
+}
+
+.navbar-light .navbar-brand {
+    color: #4aaaa5;!important;
+    font-size: 35px;
+    font-weight: bold;
+    float: left;
+    /*margin-bottom: -18px;*/
+    /*padding: 10px;*/
+    font-family: 'Times New Roman', Times, serif;
+}
+.navbar-collapse.collapse.in {
+  display: block!important;
+}
+
+#navbarNav {
+    margin top: 100px; 
+}
+
+.navbar {
+}
+
+.container {
+    margin-top: 20px;
+}
+
+
+h2, h3 {
+    font-family: 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+h4 {
+    float: left;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    position: absolute;
+    width: 260px;
+    height: 60px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 60px;
+}
+
+img {
+    width: 260px;
+    float: left;
+    margin-right: 20px;
+    position: relative;
+}
+
+#linkedin {
+    margin-left: -10px;
+  }
+
+  #github {
+    margin-top: 4px;
+    margin-left: -10px;
+  }
+   
+
+  #stackoverflow {
+    margin-left: -10px;
+  }
